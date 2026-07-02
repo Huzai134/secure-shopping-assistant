@@ -1,4 +1,8 @@
 # shopping-assistant
+### Agent in Action
+
+**Stateful Security: Successful Redemption followed by Double-Redemption Prevention**
+![Discount Redemption and Security Block](images/discount-demo.png)
 
 Simple ReAct agent
 Agent generated with `agents-cli` version `0.6.1`
